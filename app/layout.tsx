@@ -1,5 +1,6 @@
 import type {Metadata} from 'next';
 import {Montserrat, JetBrains_Mono} from 'next/font/google';
+import { Analytics } from "@vercel/analytics/next";
 import './globals.css';
 
 const montserrat = Montserrat({
@@ -58,7 +59,10 @@ export default function RootLayout({
         <meta name="theme-color" content="#fdf6f0" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
-      <body suppressHydrationWarning>{children}</body>
+      <body suppressHydrationWarning>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
