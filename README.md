@@ -6,11 +6,11 @@ Sparkles Skincare: A premium, warm-toned skincare landing page built with Next.j
 
 ## Desktop Preview
 
-> Screenshots will be added after deployment.
+[![Desktop Preview](https://github.com/Drimdave/sparkles-skincare/raw/main/public/sparkles-desktop.png)](https://github.com/Drimdave/sparkles-skincare/blob/main/public/sparkles-desktop.png)
 
 ## Mobile Preview
 
-> Screenshots will be added after deployment.
+[![Mobile Preview](https://github.com/Drimdave/sparkles-skincare/raw/main/public/sparkles-mobile.png)](https://github.com/Drimdave/sparkles-skincare/blob/main/public/sparkles-mobile.png)
 
 ---
 
